@@ -10,4 +10,8 @@ public class ReUsableMethods {
 		JsonPath js1 =new JsonPath(response);
 		return js1;
 	}
+	public static void postJira() {
+		System.out.println("Git demo for pushing and commiting code");
+		System.out.println("Git demo for pushing and commiting code");
+	}
 }
