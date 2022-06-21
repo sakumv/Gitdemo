@@ -1,0 +1,26 @@
+1. What’s the best bug you’ve ever found?
+
+2. How would you explain testing to a 5 year old?
+
+you want to gift your friend somethig for her bday --> choose the one she likes/wants (requirements) --> choose the one which she will be happy with , like color, texture etc (as per her expectations verifying) --> whether the toy works as expected *validation) --> whether it stays good when fallen / thrown etc (negative scenaions) --> 
+
+3. Walk me through a typical day in your life as a software tester
+
+4. What makes you a good tester?
+A good software tester has a broad range of knowledge, experience, and skills, and is very skilled/knowledgeable in at least two of them. Good testers are able to adapt to new environments and become productive in a shorter time than average when faced with an unfamiliar environment or skill-set. should have a passion to test the various activities
+end to end testing --
+5. How to test a text field?
+
+6. What’s the difference between quality assurance and testing?
+1. monitoring the process and preventing the bugs in early stages of development -->
+2. testing the software for v and v
+
+7. What was a favorite product feature or functionality that you tested?
+
+8. Describe the different types of testing
+functional --> positive and negative --> testing against requirements
+non functional --> how the system behaves when load is applied / security / strss / compatability etc
+Static and dynamic testing
+
+
+9. You had a conflict with one of the developers. Next day you receive a task to test one of the features he worked on, and you don’t have enough information in requirements to start testing it. What are your actions? we have to work together. if a conflict arises, we need to talk about it and agree to some point .. if we couldt solve it / agree , escalate to team / product owner so that you both can agree on what is needed fpr the company/ business.
