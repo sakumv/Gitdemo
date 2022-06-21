@@ -1,4 +1,5 @@
 1. What’s the best bug you’ve ever found?
+Creating a bug which behaves differently in the android and ios
 
 2. How would you explain testing to a 5 year old?
 
