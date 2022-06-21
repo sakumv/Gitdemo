@@ -6,7 +6,12 @@ Creating a bug which behaves differently in the android and ios
 you want to gift your friend somethig for her bday --> choose the one she likes/wants (requirements) --> choose the one which she will be happy with , like color, texture etc (as per her expectations verifying) --> whether the toy works as expected *validation) --> whether it stays good when fallen / thrown etc (negative scenaions) --> 
 
 3. Walk me through a typical day in your life as a software tester
-
+	1. check mails
+	2. attend meetings
+	3. work on the story , test plan and test case
+	4. create test data
+	5. check the test environment
+	6. execute the test case
 4. What makes you a good tester?
 A good software tester has a broad range of knowledge, experience, and skills, and is very skilled/knowledgeable in at least two of them. Good testers are able to adapt to new environments and become productive in a shorter time than average when faced with an unfamiliar environment or skill-set. should have a passion to test the various activities
 end to end testing --
